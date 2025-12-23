@@ -1,5 +1,7430 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 17,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En este video se trata de un análisis de los procesos de creación de objetos virtuales."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "ad729438-7994-451b-9f36-606a7ebcd0a1"
+    },
+    {
+      "start_time": 20,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En el caso de los objetos virtuales, el objeto es una moneda de mosaica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "42a0bf5d-6259-449f-823d-0cd21e2e82f5"
+    },
+    {
+      "start_time": 20,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El objeto está dentro de una moneda de mosaica."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "f3662ed1-ebb5-46e6-9d79-c08b4ddb1c40"
+    },
+    {
+      "start_time": 52,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bienvenidos y bienvenidas a Perspectivas, aquí en Rompeviento TV, y estamos en el seguimiento"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "0f2bdacd-3b21-44da-b40e-fc8bd4a5cb53"
+    },
+    {
+      "start_time": 57,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de una cantidad industrial de casos y de historias de tenebra que hay a lo largo y ancho de la"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "d7b54e75-3c29-4f6d-aeb7-32faeeccd3a1"
+    },
+    {
+      "start_time": 68,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "República Mexicana, y en este caso el estado de Coahuila no escapa de estos terrores y"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "39bc9d98-3161-44f7-9912-0fd40f69684a"
+    },
+    {
+      "start_time": 75,
+      "end_time": 82,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se encuentra con nosotros nuevamente la abogada Arianna García, abogada de la organización"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "8f3204ed-70ce-495f-845f-6546c443a1d9"
+    },
+    {
+      "start_time": 82,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Familias Unidas, y nos acompaña también la señora Miriam García Salazar con un caso"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "bb9e743a-4647-49b9-8a8f-3dcbefacd3ab"
+    },
+    {
+      "start_time": 91,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de cuatro familiares desaparecidos y que es uno de los casos emblemáticos de corrupción,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "df674230-c874-4aad-b19d-12ccc4b8f376"
+    },
+    {
+      "start_time": 102,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de impunidad por parte de las propias autoridades en el estado de Coahuila, colindante también"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "12917a3f-9653-4d51-a454-80333b342bda"
+    },
+    {
+      "start_time": 109,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "con autoridades del estado de Nuevo León, del estado de Tamaulipas, y yo le voy a pedir"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "b0721102-a395-40df-955f-15ebe470cf5d"
+    },
+    {
+      "start_time": 117,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "doña Miriam si me hace favor, usted tiene desaparecidos a su hermano Adrián, a su esposo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "32388c30-669a-4aa6-8ab8-cf838bea0f93"
+    },
+    {
+      "start_time": 126,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Héctor, a su primo Julián y a un acompañante, todos desaparecen en la misma circunstancia"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "53a8045a-489a-42b0-b3cc-ff61363ca53a"
+    },
+    {
+      "start_time": 134,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el 31 de marzo de 2010, qué sucedió? Pues ellos salieron a trabajar, salieron de casa"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "fe47144f-730e-4bba-89c3-063492c0ef64"
+    },
+    {
+      "start_time": 143,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de mi mamá de Piedras Negras, se trasladaron a Macalén, iban por un tractor, ellos iban"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "f1c79e1e-c2e4-4442-a13e-ea6438806a65"
+    },
+    {
+      "start_time": 149,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en una camioneta, en una Cherokee, la orden de su patrón era nada más ir por el tractor,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "89c43c9c-494d-40a9-9957-11742c1707cb"
+    },
+    {
+      "start_time": 154,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pero iban a ir los cuatro, iban a regresar al día siguiente, cruzaron supuestamente"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "03c5e9b6-00b6-4d5f-a3e7-bb3fad1c50be"
+    },
+    {
+      "start_time": 161,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el puente de Macalén a Reynosa, cruzaron el tractor, venían en la Cherokee y nos avisaron"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "62031231-a803-44cc-8b6a-fddfc43ca386"
+    },
+    {
+      "start_time": 168,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a las cuatro esposas que ya venían para Piedras Negras, que si todo salía bien llegaban en"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "8276c604-b094-4d14-b9b7-0fdc1649b59d"
+    },
+    {
+      "start_time": 174,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la madrugada, estuvimos esperando, no llegaron, a la mañana siguiente marcamos y sí timbraban,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "6102f4ab-3b8d-4349-8e83-e785f65ad2bf"
+    },
+    {
+      "start_time": 182,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pero bueno el de mi esposo timbraba, pero no contestaban, luego más tarde volvió a marcar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "952d82c9-7578-4763-b207-82b3cf649d94"
+    },
+    {
+      "start_time": 188,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y ya como que alguien le picó para contestar, pero no se oía la voz de que bueno o algo,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "7a462677-e2a4-48fe-932b-180357f7a26f"
+    },
+    {
+      "start_time": 196,
+      "end_time": 202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "solo marcaron, o sea contestaron, a lo mejor sin querer, no sé, y se escuchaban voces de hombres"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "d2d3a85d-fd56-46ea-be35-77ca8591af1a"
+    },
+    {
+      "start_time": 202,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que no eran las voces de ellos y decían pues ya ves nos perdimos, se escuchaba como camionetas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "0ce1e01b-43f2-4a47-817b-eb6502fa84fe"
+    },
+    {
+      "start_time": 210,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en terracería y así, luego se dieron cuenta que estaba contestado el teléfono y lo cortaron,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "b4ffa017-0a38-45c3-acfe-8b4df9e8fa5d"
+    },
+    {
+      "start_time": 217,
+      "end_time": 226,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y ya desde ahí no supimos más. Estamos hablando y por ejemplo esa llamada, si ellos,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "e261687e-d094-4282-b99a-8f410d4dddca"
+    },
+    {
+      "start_time": 226,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se perdió el resto de ellos el 31 de marzo, la llamada es ese mismo día, al día siguiente y"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "0b0bacee-c951-4c7b-8013-3549f6f2aaec"
+    },
+    {
+      "start_time": 233,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "después que sucedió? Pues le avisamos al patrón de ellos verdad, que los muchachos no aparecían"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "cf19df21-1752-45e4-9cfc-6b51a2a4cc3e"
+    },
+    {
+      "start_time": 241,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y él pues dice que venía de Baja California Sur, Pedro de la Fuente de Anda, es el patrón de ellos,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "d95c29c5-fc6a-4edb-b91e-ac3b97a4c408"
+    },
+    {
+      "start_time": 252,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "dice que los muchachos le avisaron a él que ya habían cruzado y que ya iban para piedras,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "b7f26256-645d-421b-994e-e16fce1f2098"
+    },
+    {
+      "start_time": 257,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "él era todo lo que sabía supuestamente y dijimos pues bueno es que no aparecen los muchachos para"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "a1d512bc-04b8-4c73-8db3-79de91cd4d78"
+    },
+    {
+      "start_time": 264,
+      "end_time": 268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que usted los busque porque son sus trabajadores y usted los mandó a que trajeran el tractor y"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "13f4c875-f34f-468c-8126-5a2c5db80c77"
+    },
+    {
+      "start_time": 269,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no, ya después no supimos nada de ellos, seguimos marcando, no aparecían."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "666dbe63-c845-45b3-b020-6bd6cb2bed39"
+    },
+    {
+      "start_time": 276,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok, entonces pero después hay alguna aparición de ellos, hay alguna información, qué sucedió ahí?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "3cd7a513-bfff-47f1-ba12-985687f64eb6"
+    },
+    {
+      "start_time": 287,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno después de que ellos desaparecen, a los cinco meses de que ellos desaparecen,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "70bb3337-a089-4a45-a972-1495a865df31"
+    },
+    {
+      "start_time": 290,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "aparece en una página de internet una foto de ellos donde son rescatados por la Marina,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "8d80c47f-aab3-4ea0-8b5c-e32cf612373a"
+    },
+    {
+      "start_time": 299,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cinco meses después, aparece una foto de ellos en internet,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "8fd6d74e-633a-48ca-b440-88d0b73bbb23"
+    },
+    {
+      "start_time": 304,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Quién de ustedes la ve? La esposa de Julián, ella nos la enseñó a nosotros y ya nosotros la"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "ac20ed31-9abe-481d-ab77-4d721ab9f0d2"
+    },
+    {
+      "start_time": 311,
+      "end_time": 318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "buscamos y sí aparecía ahí. ¿Y qué eran ellos? Bueno yo como esposa identificaba a mi esposo y"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "5ec745d6-ab88-464d-a187-8ca64f5a7193"
+    },
+    {
+      "start_time": 318,
+      "end_time": 326,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mi mamá pues a mi hermano Adrián y la mamá de Julián pues a Julián. ¿Qué imagen era? Pues"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "fd76f9f8-adc9-4626-b6e5-2bb9c64c0501"
+    },
+    {
+      "start_time": 326,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "estaban atados de pies y manos y vendados de los ojos y ya con menos peso del que cuando se"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "781254b3-6f17-4df9-8f5e-f836171cd76b"
+    },
+    {
+      "start_time": 335,
+      "end_time": 343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "desaparecieron. ¿Esa fotografía fue tomada en dónde y por quién? En Guadalupe Nuevo León y"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "cbbf70f0-05d2-4784-9bad-423cc17eb3e7"
+    },
+    {
+      "start_time": 343,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "fueron rescatados por la Marina. ¿Y qué decía la nota? Pues que fueron rescatados nada más,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "545a82ea-3aed-484f-8184-b2edd8d7941e"
+    },
+    {
+      "start_time": 348,
+      "end_time": 357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "estaban en una casa de seguridad en Guadalupe Nuevo León. ¿Y qué hacen ustedes ahí? Pues"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "133bce82-1a69-4fcf-81c2-28fff4d87986"
+    },
+    {
+      "start_time": 357,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "este ya le avisamos a los demás familiares, nos trasladamos a Monterrey porque es donde estaban"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "ca56a5d2-0858-44ea-a592-a2e9970eebe1"
+    },
+    {
+      "start_time": 365,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "supuestamente, fuimos con la Marina y Marina dice que ellos no toman datos de las personas cuando"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "f188f216-9698-4c71-b74c-600bc8ce4a52"
+    },
+    {
+      "start_time": 370,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "son rescatadas, ellos solamente las entregan a PGR, entonces preguntamos con PGR y empiezan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "1796acfc-07fa-45f8-85e3-f4cee9d7837f"
+    },
+    {
+      "start_time": 377,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a checar archivos de la fecha de ellos y nos dicen que no, que no saben nada y le decimos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "52cbd4cb-13d3-4940-a720-45cff8bd459f"
+    },
+    {
+      "start_time": 385,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pues que deben de tener algún documento o algo y empiezan según a checar más y nos enseñan unas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "f3656549-dfd1-4aad-bfc5-9fb71368d988"
+    },
+    {
+      "start_time": 390,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "fotos pero no coinciden porque no son ellos. Entonces nos dicen que si supuestamente ellos,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "679137d6-2d85-45f0-bd68-9e0c3a0c2754"
+    },
+    {
+      "start_time": 397,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marina entrega a ellos, ellos al momento de que lo reciben pues toman sus datos y los dejan en"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "84011e8c-8081-4c8d-9ed6-c6ba40400444"
+    },
+    {
+      "start_time": 405,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "libertad pero ellos no se hacen responsables a partir de sus instalaciones hacia afuera,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "fed255cd-570f-4cf3-9212-453a222c9a43"
+    },
+    {
+      "start_time": 409,
+      "end_time": 417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no se hacen responsables y se vuelven a perder o algo así. O sea, cuando ellos se pierden y si"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "ec6b5596-6011-4c9f-9421-4a4115ca1e4f"
+    },
+    {
+      "start_time": 417,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ellos los van a dejar en libertad me imagino que nos tienen que avisar y no nos han avisado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "8805f8cc-c8bf-4f65-9ce2-53b0215cbb74"
+    },
+    {
+      "start_time": 422,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A ver, pero entonces ahí, doña Miriam, la Marina reconoce que sí los recuperó,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "7c01d79c-e2ca-4724-adee-9c55cf2f0c97"
+    },
+    {
+      "start_time": 432,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que sí los rescató y que los entregó a la autoridad, a la policía. ¿La Marina sí reconoce"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "04069c12-7cd4-45f4-98c6-3e590786ff97"
+    },
+    {
+      "start_time": 440,
+      "end_time": 452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "esa parte? Sí. Y en este caso, ¿qué corporación es la que los recibió? PGR. PGR. ¿Esto en dónde?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "41883692-f794-4c62-a7d3-c4e0a0f5e66f"
+    },
+    {
+      "start_time": 453,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En Monterrey. En Monterrey, Nuevo León. Entonces PGR reconoce que sí los recibió y dice la PGR"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "6804611c-d3dd-489f-ba6e-0eec64b25520"
+    },
+    {
+      "start_time": 461,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que los liberó ese mismo día. Pero ¿qué obra en el expediente? ¿Cuál era el testimonio que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "d564a205-437d-466b-a3ba-be98dc22d33b"
+    },
+    {
+      "start_time": 470,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "dieron los familiares? ¿Qué dice la PGR sobre eso? Pues la PGR nada más, o sea, dice que recibe"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "8047845d-8588-47e1-8141-99f48d478a0e"
+    },
+    {
+      "start_time": 477,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a las personas y las deja en libertad, pero no manda a llamar a los familiares para avisar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "26b80df5-7fa9-465e-a2d8-efb830daaf08"
+    },
+    {
+      "start_time": 486,
+      "end_time": 495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y qué sucede después de eso? ¿Ustedes van, la PGR les dice que los liberaron y que no saben más?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "336514cc-0a1a-4c23-82f7-e6e47ff9c523"
+    },
+    {
+      "start_time": 496,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí, dice que no saben más. ¿Y qué hacen ustedes ahí? Bueno, pues nosotros vamos a PGR de Piedras"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "372bb353-2dba-4430-a52e-7f312a2a6e98"
+    },
+    {
+      "start_time": 503,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "porque la mamá de Héctor, mi suegra, ella sí puso denuncia ahí, a ella se la aceptaron por ser"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "c19679e7-b1d8-4adc-99c9-652f438a5a77"
+    },
+    {
+      "start_time": 509,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "madre de Héctor y entonces un empleado de la PGR a ella le asegura que una de las personas que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "2b5a723a-87c4-4c35-b37a-cec37eb6524c"
+    },
+    {
+      "start_time": 518,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "fueron liberadas viene en camino hacia Piedras Negras porque tiene antecedentes penales, que es"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "097289a6-7735-46c3-a53a-c8799e757943"
+    },
+    {
+      "start_time": 525,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Julián Prieto y los demás se encuentran en Monterrey. O sea, Julián, primo de usted. Sí, es por eso que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "ce4b3ff7-e115-4fd9-9305-573f63c9aa8d"
+    },
+    {
+      "start_time": 533,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "nos trasladamos a Monterrey a hacer todo el proceso y es cuando se deslinda PGR de que ellos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "3e097756-4ff4-432f-b4b8-8a38cc6f7a8d"
+    },
+    {
+      "start_time": 538,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "estaban allá. Cuando un trabajador de la PGR de Piedras Negras aseguraba que Julián Prieto era el"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "85de2027-8638-495d-92a0-7effbff557b5"
+    },
+    {
+      "start_time": 544,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que venía para Piedras Negras, lo estaban trasladando de Monterrey a Piedras Negras por tener"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negligencia de autoridades"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de familiares"
+        }
+      ],
+      "uuid": "3d2e695f-9e82-4b54-bc13-181f8e177bfa"
+    },
+    {
+      "start_time": 550,
+      "end_time": 555,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "antecedentes penales y los demás estaban allá. Por eso fue que nos trasladamos los familiares allá,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "6e582862-32d3-4b09-8c33-ba4669c66098"
+    },
+    {
+      "start_time": 556,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pues para verlos, ¿verdad?, que estaban rescatados. Ahí es cuando se deslindan ellos de que ellos los"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "1e50de40-5ea7-4331-bf85-d837a1460c3f"
+    },
+    {
+      "start_time": 561,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tenían. ¿Qué pasa con el patrón, el jefe de ellos? Pues él dice que no sabe nada de ellos, que él"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "65e8812e-6130-4281-8569-fd857ff6e16c"
+    },
+    {
+      "start_time": 574,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "venía de su viaje de Baja California Sur hacia Piedras Negras y que los muchachos solamente"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "ce3ccf29-bea1-4912-93b1-10c2405c97a4"
+    },
+    {
+      "start_time": 581,
+      "end_time": 586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "le avisaron que pues sí, ya habían cruzado con su tractor y la camioneta y ya venían para Piedras."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "92989ada-1ca3-4049-9d76-381b87078bb7"
+    },
+    {
+      "start_time": 586,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es todo lo que él sabe también de ellos. ¿Y no hace él alguna indagatoria? ¿Metió a alguien a"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "b5d4c9d6-3043-47ea-ba76-812f8bf58a40"
+    },
+    {
+      "start_time": 594,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "investigar? ¿Eran sus trabajadores? ¿Era su tractor? ¿Qué información aporta él sobre el caso?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "7cd73da4-2d82-42b4-9266-aebe8b754e9e"
+    },
+    {
+      "start_time": 601,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, cuando él pues empieza a buscar su tractor, porque pues él lo mandó a traer, ¿verdad? Manda"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "1bba2875-1a0a-4516-a8f2-23e714edf089"
+    },
+    {
+      "start_time": 609,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "un trabajador de él sobre la carretera, la ribereña, manda un trabajador de él y dice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "50bef397-a587-4222-bb91-c6b7c6ef6563"
+    },
+    {
+      "start_time": 617,
+      "end_time": 622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que supuestamente el tráiler aparece sobre la carretera. El trabajador se asoma para buscar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "7862cea6-63e6-44f7-9ece-48eed36443cd"
+    },
+    {
+      "start_time": 622,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la razón social, para saber qué es su tráiler y le dice que sí es, pero cuando él intenta subir"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "b07ada03-ee46-46a1-a0ee-c2924d9c4f17"
+    },
+    {
+      "start_time": 629,
+      "end_time": 636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hacia el tráiler para asegurarse si había alguien o no, él mira gente armada en el zacate sobre la"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "03821459-fe24-49e3-ae12-b44a4e80a6f3"
+    },
+    {
+      "start_time": 636,
+      "end_time": 644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "carretera y él pues se retira, se retira como que si no vio nada, se retira y solamente le avisa"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "8cef2357-84c8-4fe4-b846-191ad6f322d6"
+    },
+    {
+      "start_time": 644,
+      "end_time": 650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a su patrón que ahí estaba el tráiler, pero que no había nadie. Entonces mi mamá le marca a él,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "406f982e-b5a9-4b73-8b10-208b79ae07e1"
+    },
+    {
+      "start_time": 650,
+      "end_time": 656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿verdad?, al patrón y le dice que él cómo está seguro de que los muchachos no están en el tráiler"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "1331df90-0ec4-4b73-9d31-0d613c152570"
+    },
+    {
+      "start_time": 657,
+      "end_time": 661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y él le dice con mucha seguridad que pues no, él está seguro que no estaba nadie ahí."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "63a66399-e773-4616-975c-3965875d94c5"
+    },
+    {
+      "start_time": 662,
+      "end_time": 668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y ustedes cómo tienen el testimonio del trabajador? ¿Cómo saben esta historia?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "bc0f44fa-0c51-4d4e-8f9e-70a83e4212de"
+    },
+    {
+      "start_time": 668,
+      "end_time": 673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lo que pasa que cuando él le dice eso al trabajador, el mismo patrón nos hace llamadas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "177022e9-f522-4c32-bf43-e54ba85e6d4a"
+    },
+    {
+      "start_time": 673,
+      "end_time": 679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a nosotras las esposas que hagamos una llamada anónima a la caballería de que ahí estaba ese"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "731098bb-e397-4324-afa6-2d926214fb06"
+    },
+    {
+      "start_time": 679,
+      "end_time": 686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tráiler para que la caballería afuera lo buscara. Entonces nosotros hacemos la llamada y lo raro es"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "3fe5a3be-11d4-4b1b-95f8-355d193ef42a"
+    },
+    {
+      "start_time": 686,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que ellos estaban enterados de eso. O sea, los números que él nos dio dijo marquen de números"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "e999f01e-98ba-47db-93f5-72cdc53009e5"
+    },
+    {
+      "start_time": 690,
+      "end_time": 697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de teléfonos públicos y avisen que en tal kilómetro está ese tráiler para que ellos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "0948c052-d318-4ec2-824f-0d29d169f84e"
+    },
+    {
+      "start_time": 697,
+      "end_time": 702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "vayan. O sea, él no quiso ir a recuperarlo personalmente. Entonces nosotros hacemos las"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "a1a96fa4-8697-47c3-b9bb-eaee550b60f4"
+    },
+    {
+      "start_time": 702,
+      "end_time": 706,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "llamadas y nos contestan los soldados y nos dicen, ah, sí, ya tenemos ese reporte."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "7da47966-e99b-4781-87e3-8473b1b85e9e"
+    },
+    {
+      "start_time": 707,
+      "end_time": 710,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando dice la caballería es un regimiento de caballería autorizada, ¿quién?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "29fd8892-6ff4-47c3-ba90-5d0837eaed31"
+    },
+    {
+      "start_time": 711,
+      "end_time": 715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah, sí, y pues está raro que ellos sabían."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "ab4423fd-7d2f-4355-a619-7854ed09f11c"
+    },
+    {
+      "start_time": 716,
+      "end_time": 718,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cómo sabe que sabían? ¿Qué les dijeron?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "7c9ea316-335a-4e19-aaaf-294a03206a6a"
+    },
+    {
+      "start_time": 718,
+      "end_time": 724,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque nos decían que sí estaban enterados ya de ese reporte. Porque la mamá de Julián hizo el"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "07353c95-3c60-46df-aaa8-3637b92d8477"
+    },
+    {
+      "start_time": 724,
+      "end_time": 729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "reporte, la primera llamada, y dijeron, ah, ok, vamos a checar. Entonces la hago yo y me dicen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "84ce1d93-976e-488a-8f25-78b5875ee725"
+    },
+    {
+      "start_time": 729,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que ya estaba ese reporte hecho. O sea, la hicimos las cuatro llamadas el mismo día, pero en"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "1cb5a9b7-fc4b-46cd-a272-f2419580d0e7"
+    },
+    {
+      "start_time": 736,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "diferente, diferente teléfono público. Y nos dicen que ya están enterados de ese reporte."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "b00e1e3b-00fc-46c9-a72f-93fe72ce8d1f"
+    },
+    {
+      "start_time": 746,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok, y después de toda esta información, ¿ustedes en qué momento están? ¿Qué otra"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "ada2fbc9-a19d-4e8a-90dd-bbe52121abc2"
+    },
+    {
+      "start_time": 754,
+      "end_time": 758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "información o datos importantes tienen ustedes?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "1c764233-8d72-46bf-8dc5-12210cefc1b7"
+    },
+    {
+      "start_time": 760,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pues ninguno, porque, o sea, hemos preguntado en la policía, por ejemplo, en Piedras Negras,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "321f2767-ec93-4ed2-ad16-818c8af108ad"
+    },
+    {
+      "start_time": 766,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en el Palacio de la Injusticia, le digo porque no hace nada, no nos quieren ayudar porque"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "02ab557f-1609-4a91-9da0-137cb54e2a7a"
+    },
+    {
+      "start_time": 773,
+      "end_time": 779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no es su jurisdicción. Como fue en Tamaulipas, ya es otro estado y no nos pueden ayudar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "99dd8af7-5b1b-45d4-bd4d-514fc5029bd1"
+    },
+    {
+      "start_time": 780,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y pues ahí es donde conocemos a una persona que está con Familias Unidas, que nos habla"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "fbd0c9e4-bb92-4c1b-acc3-9b12512ab932"
+    },
+    {
+      "start_time": 787,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de ellas, ya nos unimos a ellas para que nos ayudaran a hacer el proceso de la denuncia"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "9b73f467-b7c3-49a1-96ae-28c0fea83807"
+    },
+    {
+      "start_time": 792,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y todo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "9c1441fc-ad39-47b6-a369-79b34291933f"
+    },
+    {
+      "start_time": 794,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gracias, gracias, doña Miriam. Ariana, ¿qué caso tan fuerte y además tan ilustrativo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "9c115502-16c5-4b74-a896-ea7e571e8720"
+    },
+    {
+      "start_time": 804,
+      "end_time": 812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de una serie de complicidades? Lo que más sorprende es que son cuatro personas que desaparecen"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "a4aa74a5-a5b9-4be8-8cd1-250bb028c1dc"
+    },
+    {
+      "start_time": 813,
+      "end_time": 824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y aparecen cinco meses después o cuatro meses después, que son rescatadas por Fuerzas Armadas,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "5093e1c0-a447-4c7e-ad1c-20c70fbb8994"
+    },
+    {
+      "start_time": 824,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en este caso la Marina. La Marina nos entrega a la Procuraduría General de la República"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "0eed1616-2bf6-4afb-9f2e-f2df8c976bf3"
+    },
+    {
+      "start_time": 830,
+      "end_time": 839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y vuelven a desaparecer. Tú estás llevando este caso también, esto es en Tamaulipas,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "83a314fa-42db-4f1b-a5f6-91481886e4f4"
+    },
+    {
+      "start_time": 840,
+      "end_time": 847,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en Nuevo León, en Piedras Negras, ¿qué elementos tiene sobre este caso?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "f800d140-ade0-451b-a16d-836769e9943b"
+    },
+    {
+      "start_time": 847,
+      "end_time": 854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este caso es uno de los que nosotros denominamos desaparición en trayecto, es decir, si bien"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "e939ee5c-7ea8-47a5-a3c5-a2a13235e2c7"
+    },
+    {
+      "start_time": 854,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "es cierto ellos son originarios de Piedras Negras, como lo platica Miriam, fueron hasta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "af8c0f7c-d04a-404e-a033-8c8e4b831198"
+    },
+    {
+      "start_time": 859,
+      "end_time": 865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Macal en Texas, regresan de Macal en Texas porque se presume que ellos cruzaron la frontera"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "cc10900e-2a5c-494d-b149-97de727c26d1"
+    },
+    {
+      "start_time": 865,
+      "end_time": 869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de nueva cuenta, que les avisan que ya van en el trayecto de la carretera ribereña"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "d12d9fe6-e78d-4b63-8a9c-65d50f796302"
+    },
+    {
+      "start_time": 869,
+      "end_time": 874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ya por llegar a Piedras Negras. Les dan una hora aproximada de su llegada a Piedras Negras,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "1c4f88cf-9b41-4374-8ce0-c46a53d4561e"
+    },
+    {
+      "start_time": 874,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "calculando el tiempo que normalmente ellos hacen, pero resulta que no llegan. Del propio"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "9e9bbaf5-9923-434c-8133-2f2ebbd71229"
+    },
+    {
+      "start_time": 880,
+      "end_time": 884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "relato que Miriam te está proporcionando es que están involucradas varias autoridades"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "8b2ac0e4-26d1-4781-bd68-e11fe7fdb4ac"
+    },
+    {
+      "start_time": 884,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que si bien es cierto uno hace contacto con otro, es decir, la subdelegación que existe"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "e688fd82-68e0-4da2-95dc-de41c6f0bfc6"
+    },
+    {
+      "start_time": 890,
+      "end_time": 894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en Piedras Negras de la PGR hace contacto con la delegación de PGR que existe en Nuevo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "5cbd440b-5c94-475b-83d8-2052f8297229"
+    },
+    {
+      "start_time": 894,
+      "end_time": 900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "León, al presumirse o a ellos referir que ya viene una persona porque inclusive tiene"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "f3ec2c2e-e29e-49e2-9544-f23310660250"
+    },
+    {
+      "start_time": 900,
+      "end_time": 905,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "antecedentes quiere decir que corroboraron que se trataran de ellos las personas rescatadas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "b8263f3a-4b21-42db-8c33-f4e9cc7f641b"
+    },
+    {
+      "start_time": 905,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y te están hablando de un lapso de cinco meses. Esta etapa que ella hace referencia"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "623bdd43-4a7a-478b-8b13-0bbc17af0bd4"
+    },
+    {
+      "start_time": 911,
+      "end_time": 919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a ver al camión y lo de la llamada también, eso es antes de estos cinco meses y están"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "aa8f2ebc-c23c-45c3-a8cb-9622b7de7286"
+    },
+    {
+      "start_time": 919,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "entrados en el trayecto de la ribereña, concretamente en lo que conocemos como el"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "122c077b-9e5c-490e-b6bc-4c2165ff6b2b"
+    },
+    {
+      "start_time": 923,
+      "end_time": 928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puente Colombia que pertenece a Nuevo León y la línea divisoria para el ingreso a Coahuila"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "2e3a3e6d-51fa-4b26-86d4-5d125ced4cf8"
+    },
+    {
+      "start_time": 928,
+      "end_time": 935,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "por el lado de Guerrero Coahuila, Hidalgo. Existe siempre cuartelados militares, un grupo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "7ac40f33-f7b6-4967-bb46-95bfbb74cacc"
+    },
+    {
+      "start_time": 935,
+      "end_time": 943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de la Sedena, inclusive actualmente hay elementos de la Marina. Entonces al momento que se está"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "f1e5abae-0ce7-4a3b-8c23-230923d71c3b"
+    },
+    {
+      "start_time": 943,
+      "end_time": 948,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "haciendo esta llamada anónima y se hace referencia allá hay un reporte y luego entonces existe"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "60f55edd-72c3-41a8-b71d-28965e4970f5"
+    },
+    {
+      "start_time": 948,
+      "end_time": 954,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la verificación de que el tractor o el vehículo que estaba siendo transportado por ellos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "f81919b8-3989-4510-8fce-c3f58ea55962"
+    },
+    {
+      "start_time": 954,
+      "end_time": 959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "aparece, obviamente no hubo las investigaciones de forma inmediata y pues es lo que está"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "5d1e3556-bbf9-489f-9151-499633f8d4a9"
+    },
+    {
+      "start_time": 959,
+      "end_time": 965,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "originando este padecer de esta familia al día de hoy o después de tantos años sin"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "33fef954-6472-4210-b295-44445c652081"
+    },
+    {
+      "start_time": 965,
+      "end_time": 971,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tener ningún resultado. Ellas tenían ya interpuesta esta denuncia en PGR en Piedras Negras más"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "5ae83777-c268-443f-a8a7-b2751c0bd2c0"
+    },
+    {
+      "start_time": 971,
+      "end_time": 977,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no se le había dado seguimiento. Hace año y medio ya para los dos años aparece una"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "9d4d0f39-32e4-462d-b38d-9f855659ba6d"
+    },
+    {
+      "start_time": 977,
+      "end_time": 983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "fotografía en redes sociales que también es un tema muy delicado en donde la mamá"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "cf542e50-8482-4ce3-a574-292dad7e9e18"
+    },
+    {
+      "start_time": 983,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de Julián Prieto lo identifica. Esta fotografía es de un chico que aparece en un hospital."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "1171eb19-f13a-430d-b100-020833583cb0"
+    },
+    {
+      "start_time": 989,
+      "end_time": 993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta fotografía es transmitida de alguien aquí del Distrito Federal refiriendo que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "22609269-b957-439f-895c-810cf89c3e0e"
+    },
+    {
+      "start_time": 993,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se encuentra inclusive hospitalizada esta persona. Nosotras empezamos a rastrear esta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "7c5ced0f-8bed-4b10-8fcf-c78264c3deb9"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "imagen, de hecho la familia se traslada hasta la Ciudad de México porque pues les interesaba"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "a1739513-77fc-4836-8ed7-44feadb1a008"
+    },
+    {
+      "start_time": 1002,
+      "end_time": 1009,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la imagen y empezamos a indagar y resulta que había sido una fotografía retransmitida"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "786fa567-a37c-4ea7-b6e1-ef3769fd4089"
+    },
+    {
+      "start_time": 1009,
+      "end_time": 1016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "desafortunadamente en tres países. Encontramos el origen en República Dominicana, encontramos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "886d85b8-226b-40a1-9d83-3e835fc8a599"
+    },
+    {
+      "start_time": 1016,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de forma repetida la misma imagen en la Ciudad de México con más de 40 mil reproducciones,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "acf9cff1-5af5-4aa9-9003-b4f907e57caa"
+    },
+    {
+      "start_time": 1021,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "es decir compartir a través de las páginas de Facebook y encontramos en Estados Unidos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "c508d31c-1664-4163-95f3-62971c712322"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1033,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la misma imagen en los tres lugares refiriendo que se encontraba hospitalizado. También"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "bb2cb53e-a561-4543-88e7-d3e9dabb801e"
+    },
+    {
+      "start_time": 1033,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tenemos que exhortar a la ciudadanía que es un tema muy delicado y que tenemos que tener"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "934147ec-6870-4d5e-a498-c0a465a8bc7c"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mucho cuidado cuando estamos retransmitiendo esta información porque se duplican estas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "dd5ed6a4-7e91-48a8-a363-d97f6ae0c073"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1047,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "o se transmiten imágenes que empiezan a confundir las familias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "23e56bb9-4fec-4a40-8144-f71fe20d3ade"
+    },
+    {
+      "start_time": 1051,
+      "end_time": 1056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Acudimos a PGR, directamente a la unidad de búsqueda, ahora fiscalía de búsqueda,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "42fdfde8-a43c-4f01-a049-077edb2003a6"
+    },
+    {
+      "start_time": 1056,
+      "end_time": 1061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "aquí en la Ciudad de México. Inclusive se expone esa situación de poder rastrear esta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "b33980a6-c36f-4d31-a3c0-9e5585a1f544"
+    },
+    {
+      "start_time": 1061,
+      "end_time": 1067,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "imagen porque decíamos, si localizamos a Julián, que la familia reconocía en esta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "b2de9909-db44-4926-8b82-ab12bcc8b9fe"
+    },
+    {
+      "start_time": 1067,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "imagen en un hospital, pues tenemos la posibilidad de localizar a los otros tres jóvenes que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "40f1e0ed-310f-496c-bc5f-0c43e91017df"
+    },
+    {
+      "start_time": 1072,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "están desaparecidos. Desafortunadamente no se hacen los trabajos de búsqueda a tiempo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "b39e672a-0e03-461a-82c3-788f5b20bcb0"
+    },
+    {
+      "start_time": 1078,
+      "end_time": 1084,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "o en tiempo y no tenemos dentro del expediente de PGR el seguimiento sobre esta fotografía"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Desaparición forzada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Complicidades institucionales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Familias Unidas (organización)"
+        }
+      ],
+      "uuid": "1c6bd676-77f0-4027-8a53-3e2efbce9150"
+    },
+    {
+      "start_time": 1084,
+      "end_time": 1090,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "para empezar. No tenemos esta investigación, hacerla obviamente en retroceso porque al"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "ae253d98-4d6b-47a3-a535-f6dff588cc4d"
+    },
+    {
+      "start_time": 1090,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tiempo que llegamos a nosotros aquí al DF con esta denuncia, ya habían pasado dos años"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "a11c2ea4-a4f7-4515-ad11-8b0111ca51cb"
+    },
+    {
+      "start_time": 1094,
+      "end_time": 1099,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de la desaparición de ellos. Hasta donde tenemos entendido dentro del expediente de"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "0a1b0e1b-b0db-45a6-80b9-e5de6292cb29"
+    },
+    {
+      "start_time": 1099,
+      "end_time": 1104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "PGR por la búsqueda, no se ha cuestionado a PGR en Piedras Negras, no se ha cuestionado"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "b7a55a9a-f514-4fe8-a979-430727087138"
+    },
+    {
+      "start_time": 1104,
+      "end_time": 1111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a PGR en Nuevo León y no se ha localizado que elementos de Marina estaban operando en"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "866119d9-3022-477c-8c27-1abb7fd364bf"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "esas fechas en Guadalupe, Nuevo León, que es donde se rescata. Inclusive ubicamos en"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "b0cc9f77-1a3b-4917-9d60-2672fd38cad6"
+    },
+    {
+      "start_time": 1115,
+      "end_time": 1122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "internet la imagen de la casa que había sido utilizada como casa de seguridad, de donde"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "8f2e5c56-d6b8-4c3d-adfb-1e4bc1bd05ef"
+    },
+    {
+      "start_time": 1122,
+      "end_time": 1127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "los habían rescatado. Y está ubicado el domicilio. Hay una investigación por este"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "de335f21-441c-4500-b35e-1b82245123d9"
+    },
+    {
+      "start_time": 1127,
+      "end_time": 1132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "rescate, pero resulta que no hay ninguna autoridad que digan ¿saben qué? Resulta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "ccbef64e-8e8e-4939-928d-d5fe599896a5"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que las personas que se rescataron ese día, aquí están los nombres fotografías y no"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "0d03123b-19a1-45e9-a698-7945bcdcbf69"
+    },
+    {
+      "start_time": 1135,
+      "end_time": 1139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "corresponde ninguno a su familiar, ¿no? Podría ser que a lo mejor las familias confundieran"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "b8999d55-1963-4ffc-85af-f4fefb7db999"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1145,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la imagen, pero no hay esto. No hay la certeza tampoco de quiénes fueron las personas rescatadas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "abf98d94-6ae8-4079-b78d-e71943e26eff"
+    },
+    {
+      "start_time": 1145,
+      "end_time": 1153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en ese momento por la Marina. Ahora, le sumas esta, no sé ni cómo llamarle a este comentario"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "de49ab02-c9e3-4e67-95fd-1702c27d29c6"
+    },
+    {
+      "start_time": 1153,
+      "end_time": 1158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "aterrador de las autoridades. Nosotros de la puerta para allá ya no sabemos nada, ¿no?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "cbbc1eb1-ccef-4133-8636-ccc4bad7849a"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando se trata de un tema de un rescate que obviamente tienen que contactar con la familia"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "5046ba30-1479-4643-8483-b84e959cf07c"
+    },
+    {
+      "start_time": 1163,
+      "end_time": 1166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pues para hacer una entrega. Es lo que te iba a preguntar. ¿Cuál es el procedimiento, cuál"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "72bf5c6a-2248-4b17-85ce-f98425daf103"
+    },
+    {
+      "start_time": 1166,
+      "end_time": 1173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tendría que haber sido el procedimiento de la Marina y de la PGR en este caso? Puedo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "a8dbe2a9-4318-470e-9306-e901963e81f3"
+    },
+    {
+      "start_time": 1173,
+      "end_time": 1178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "decir que presuntamente las corporaciones al rescatar necesariamente tienen que generar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "a4859a37-6ff5-414b-b1d9-d03e7a7e2cab"
+    },
+    {
+      "start_time": 1178,
+      "end_time": 1184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "un informe. Posiblemente no tengan los nombres porque inclusive las personas no recuerden"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "a10f883e-76d8-4cc1-939f-e93cfa9366a9"
+    },
+    {
+      "start_time": 1184,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "su nombre, su identidad, podría ser, pero tiene que haber un reporte del rescate. Seguido"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "492fc47e-c007-4072-b4ae-1d8121d41f9d"
+    },
+    {
+      "start_time": 1189,
+      "end_time": 1195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de esto, obviamente, si son puestos a disposición o entregados a la autoridad, tiene que haber"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "49aed962-985c-40b9-947e-d0b095e938d9"
+    },
+    {
+      "start_time": 1195,
+      "end_time": 1202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ese seguimiento de este reporte de esa acción. Y entonces si es PGR quien recibe, levantar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "d0084010-5dfa-4255-89a2-fab860185d86"
+    },
+    {
+      "start_time": 1202,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "una ficha de esta localización porque inclusive toma de testimonios de cómo fueron o porque"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "e0c59d40-179b-4d10-abc2-1f7f9ee20224"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "los tenían secuestrados o porque estaban vendados de los ojos, porque estaban atados."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "a24426c2-a301-4609-adf1-a3f0be49bdcb"
+    },
+    {
+      "start_time": 1213,
+      "end_time": 1219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, es una serie de entrevistas y en esta imagen que platica Miriam aparecen aproximadamente"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "21174eb3-0270-48ca-91e6-621e46fb20c4"
+    },
+    {
+      "start_time": 1219,
+      "end_time": 1223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de 11 a 15 personas. Ahorita no te puedo decir el número exacto de personas, pero hombres"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "c7d99827-e2a9-4923-8d13-183c008f2620"
+    },
+    {
+      "start_time": 1223,
+      "end_time": 1230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "eran de menos 10, 10 hombres que estaban en esta situación de estar vendados de los ojos,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "6a27831a-4a5b-409b-8adf-e6aaf10a906d"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "atados de pies y manos. Eso se apareció también en la fotografía. Sí, de eso aparece en"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "3aeda2df-f78e-48f0-a8f5-e585fc0407cd"
+    },
+    {
+      "start_time": 1234,
+      "end_time": 1241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "esta imagen. Aparecen ellos ahí. Viene la nota y le empezamos a dar seguimiento a esta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "fa7e7196-08b6-4ba0-9c19-39071e6a862d"
+    },
+    {
+      "start_time": 1241,
+      "end_time": 1244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "nota periodística que también insistimos de pronto los medios de comunicación con"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "8c8e0ce1-fe06-4713-895b-cb369e537ad5"
+    },
+    {
+      "start_time": 1244,
+      "end_time": 1252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "todo el debido que es el respeto que se merecen. Utilizan a veces imágenes que son, las toman"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "583073c7-abed-47fe-8cc5-bc8b621db2d4"
+    },
+    {
+      "start_time": 1252,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de otras, de otros medios y vuelve a generar esta incertidumbre. ¿De qué medio estamos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "4673a7b1-8f04-403d-b444-76d1425b5b08"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hablando? De momento no podría darte el dato, pero tenemos impresas las imágenes y la página"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "04d50c65-67bd-4367-83c3-76c5185668cf"
+    },
+    {
+      "start_time": 1268,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "porque nacen en una página de Internet. Ahorita lo ponemos en pantalla. Entonces aparece esta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "d0f78a9d-a809-46dd-af9a-f0f617f118f2"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "imagen. Vamos dándole seguimiento. Inclusive aparece la imagen de la casa de seguridad donde"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "5a54ca74-ddc3-4e52-871e-7d265b6a35a2"
+    },
+    {
+      "start_time": 1280,
+      "end_time": 1286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "los tenían. Entonces, ¿por qué no existe este reporte por parte de la Marina o de PGR del"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "783afec2-9fde-4bd1-83dd-e3faec2855fa"
+    },
+    {
+      "start_time": 1286,
+      "end_time": 1291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "rescate y obviamente la entrega? Es decir, dependiendo de la condición de la persona que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "3aba0861-da8d-442c-b621-7242fecbaf15"
+    },
+    {
+      "start_time": 1291,
+      "end_time": 1297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sea localizada, se tiene que levantar esta ficha de localización. Parece entonces la unidad de"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "08f62aa9-656c-41d7-a6c6-85d57ca60a17"
+    },
+    {
+      "start_time": 1297,
+      "end_time": 1302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "desaparecidos de la PGR ya existe. Obligatoriamente tendrían que haber dado aviso a esta unidad y"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "fad7208b-6f97-49c4-80fc-dd7f1b6df526"
+    },
+    {
+      "start_time": 1302,
+      "end_time": 1306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "haber generado esta ficha de localización para ver si no existía un reporte precisamente de"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "a24d3105-5a55-463d-98d2-ff6854a5e473"
+    },
+    {
+      "start_time": 1306,
+      "end_time": 1312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "desaparición. Ahora, tenemos una denuncia previa por la desaparición cinco meses antes en Piedra"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "cd7db3e2-29df-431d-8957-92970e9b4dcf"
+    },
+    {
+      "start_time": 1312,
+      "end_time": 1318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Negra. En PGR no podemos decir que porque son estados y la jurisdicción no corresponde. PGR de"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "7c43454e-98dc-47ec-a3fb-e96087f89290"
+    },
+    {
+      "start_time": 1318,
+      "end_time": 1322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Piedra Negra ya tenía una denuncia. Hay una localización y tendría que haber una vinculación"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "de7fe68f-15a7-4dec-bcd1-81839eff4030"
+    },
+    {
+      "start_time": 1322,
+      "end_time": 1328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de información entre las autoridades. No existe. Y de antemano es lo que ha retrasado en muchos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "b9a15774-a64f-4f9d-a4db-6b587a18a78c"
+    },
+    {
+      "start_time": 1328,
+      "end_time": 1335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "casos la verdadera búsqueda de una persona que está en estatus de desaparecido. Y podemos entender"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "7c9d124b-3dd1-4fba-88fa-19c5a59084b2"
+    },
+    {
+      "start_time": 1335,
+      "end_time": 1339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "inclusive que digan, es que no todos son secuestrados o tal. Bueno, hay personas que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "2ff68834-d252-45d9-9ed5-e359ace6b558"
+    },
+    {
+      "start_time": 1339,
+      "end_time": 1345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pierden la memoria y se pierden en trayecto de trabajo, algún accidente. Pero hay vinculación,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "e338aaec-88f6-4a2d-aeeb-b317559bbfe9"
+    },
+    {
+      "start_time": 1346,
+      "end_time": 1350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "son autoridades federales. Tendrían que tener esta información a mano. Entonces,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "323fa325-6041-496d-8228-05f5f48af67a"
+    },
+    {
+      "start_time": 1351,
+      "end_time": 1359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "aquí en términos del caso y del seguimiento del caso, ¿qué autoridades son las que tú"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "88ccf590-0d76-42b3-99e2-3056c95a8887"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "estás identificando que están obstaculizando la información? Hay una negligencia por parte de PGR"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "ddf402eb-342d-49ce-927a-948d09cb99df"
+    },
+    {
+      "start_time": 1367,
+      "end_time": 1375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "directamente de la subdelegación C, se llama, de la delegación de Torrión en Coahuila, de la PGR."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "700fbf2e-fe64-477c-8a94-6efdc8c59605"
+    },
+    {
+      "start_time": 1375,
+      "end_time": 1381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es una subsede que existe en Piedra Negra directamente. Que esta otra obstaculización"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "e427d48d-227d-4b9f-ad69-84b9ab1f54a1"
+    },
+    {
+      "start_time": 1381,
+      "end_time": 1387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "es precisamente la negativa, recibir una denuncia por desaparición por la supuesta no jurisdicción"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "bbf606a1-c6b0-4f57-944c-4d4d20b4d68e"
+    },
+    {
+      "start_time": 1387,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "o competencia que se hay. Cuando hablamos de esta situación de la desaparición en trayecto,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "7358d9a4-044f-4f86-b881-754959ba40fd"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ahí lo que conocemos inclusive los abogados, bueno, en términos penales, es un delito de"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "848c92df-e74b-4a7a-b1e2-a888c0be719c"
+    },
+    {
+      "start_time": 1398,
+      "end_time": 1404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "carácter permanente y continuado, la desaparición. Entonces, no habría esta situación de impedimentos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "c27cb25c-12c3-4f14-95c9-b2504303a359"
+    },
+    {
+      "start_time": 1404,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "por tiempos, por distancias, etcétera. Se recibe la denuncia y se debe de canalizar obligatoriamente"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "cb0d188e-4190-4e9d-a899-e4207367d3b0"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la autoridad competente. Entonces, hay un antecedente de denuncia, hay un antecedente"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "f954208d-1901-4e61-9062-afad97d8b0ff"
+    },
+    {
+      "start_time": 1414,
+      "end_time": 1419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de localización, no hay ninguna vinculación, no hay ningún nexo en la vinculación de esto,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "923bfb2e-8ff6-4875-b1f4-b817f21d0ca3"
+    },
+    {
+      "start_time": 1419,
+      "end_time": 1423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "más que los testimonios de las familias que hicieron toda esta labor de trasladarse"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "614d891a-91ea-4b31-bb08-5d56f63e85b8"
+    },
+    {
+      "start_time": 1423,
+      "end_time": 1428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "con las autoridades. Y tampoco hay un seguimiento a esto que ellos están haciendo referencia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "f55e1b4b-9f95-42d1-a61a-e84d8d55f861"
+    },
+    {
+      "start_time": 1430,
+      "end_time": 1434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué sigue para este caso? ¿Qué se puede hacer?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "3a7e9cd7-4f8b-46c6-bad0-15ac82ab34ec"
+    },
+    {
+      "start_time": 1434,
+      "end_time": 1441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estamos insistiendo, inclusive este testimonio de Miriam fue agregado ya a la investigación que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "98009493-f87e-4543-8838-6c1943963236"
+    },
+    {
+      "start_time": 1441,
+      "end_time": 1447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "se está llevando aquí en la Fiscalía. Pero estamos hablando de que sucedió el año pasado y no ha"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "8dcc9434-e57e-4791-8201-292b45fe6de3"
+    },
+    {
+      "start_time": 1447,
+      "end_time": 1453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "habido una respuesta ni informes sobre precisamente esta información ya vertida. Entonces, continuamos,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "9be040f3-a35a-49b3-8dc5-37d5770d36cf"
+    },
+    {
+      "start_time": 1454,
+      "end_time": 1458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "desafortunadamente lo que tenemos nosotros para trabajar es las quejas, las denuncias,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "4f491165-6a53-420f-8119-681f7935d9f9"
+    },
+    {
+      "start_time": 1459,
+      "end_time": 1465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el hacer el trabajo por propia mano, es decir, de los datos que vamos encontrando, yo lo puse"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "7c961b40-fd79-4d76-9e33-9b28d1ad63d4"
+    },
+    {
+      "start_time": 1465,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "particularmente en la oficina de la asociación, empezamos a rastrear por internet todo esto"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "6372fe8a-6483-4c44-9e2b-9d2f1fd55cc0"
+    },
+    {
+      "start_time": 1471,
+      "end_time": 1476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "para poder, inclusive yo, aportar estas pruebas a las autoridades. Me contacté con República"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "61f9f514-2be9-469f-a42d-50b73798ddf1"
+    },
+    {
+      "start_time": 1476,
+      "end_time": 1481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dominicana, con un grupo de rescate en República Dominicana, me ayudaron a hacer este rastreo de"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "58cc9c2b-3b11-483c-8f7f-61615f317105"
+    },
+    {
+      "start_time": 1481,
+      "end_time": 1487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "esta fotografía que te decía, una fotografía que aparece en tres países, ¿no? Desgarrada, es algo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "2f8e11dd-3cf3-4b89-8f26-e0e5da27e9b6"
+    },
+    {
+      "start_time": 1487,
+      "end_time": 1492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "desgarrador porque la familia en esta desesperación, inclusive estaba buscando trasladarse a República"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "dbd23faa-8198-40be-846e-ff73b9791999"
+    },
+    {
+      "start_time": 1492,
+      "end_time": 1497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dominicana para aserciorarse de que su hijo no estuviese hospitalizado en República Dominicana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "115a8a5e-c75b-47b5-a5cf-253cfc64512c"
+    },
+    {
+      "start_time": 1497,
+      "end_time": 1510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "José, en lo que toca a la imagen, ¿sí reconoce a plenitud que es el hijo o que se parece o que podría ser?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "24b64452-478a-4a90-955f-f5c7e894b949"
+    },
+    {
+      "start_time": 1510,
+      "end_time": 1517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La familia asegura que se trata de Julián. O sea, las características de la imagen, como familia,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "b111ea3d-d6e8-466f-ac21-e0742de972a7"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ellos la refieren. El comparativo con la imagen que tenemos nosotros anterior, hay muchas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "98e09cab-0719-423f-81d0-2556c43d7635"
+    },
+    {
+      "start_time": 1521,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "características. Desafortunadamente en esta imagen, el joven aparece con un tubo en su boca,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "d8dfcf45-15ec-4fd4-b522-41f1ff866f78"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "obviamente trae lesiones en su cara, está con los ojos cerrados, entonces podría haber alguna"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "011b7135-dd17-4349-b622-d16fd96f2fd3"
+    },
+    {
+      "start_time": 1532,
+      "end_time": 1539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "situación de parecido, pero no tener la certeza, ¿no? Desafortunadamente no se ven imágenes completas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "74af49a1-3af8-42c7-aff7-cf353c3fd7f4"
+    },
+    {
+      "start_time": 1539,
+      "end_time": 1546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "como para poder verificar cuestiones de tatuajes, pero la familia precisamente por esa certeza que"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "8d3d0ef2-930f-4579-820e-75e9310f59d0"
+    },
+    {
+      "start_time": 1546,
+      "end_time": 1551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ellos refieren tener, se trasladaron hasta la Ciudad de México para buscar este hospital de"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "ecba0ed1-ab8d-491e-8be4-062bc6de5e07"
+    },
+    {
+      "start_time": 1551,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "donde supuestamente se tomó la fotografía. Y nada. No hay nada hasta ahorita."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "cf2c6476-3333-4a13-a869-b6b9acf6adda"
+    },
+    {
+      "start_time": 1559,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ariana y Miriam, si hay algo que yo no les haya preguntado, que no haya tenido el tiempo de preguntar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "930e2223-b0ea-4282-8007-c3a1417dd86c"
+    },
+    {
+      "start_time": 1567,
+      "end_time": 1574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y que sea importante añadir o agregar sobre este caso, ¿tendrían algo que decir?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "3d86e761-5ef5-44b8-8457-52c933aedc92"
+    },
+    {
+      "start_time": 1576,
+      "end_time": 1584,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nada más para que nos ayuden las autoridades a seguir con el caso y que le muevan el caso,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "9588e4b0-fb17-4390-a6aa-ef0de2c3a1eb"
+    },
+    {
+      "start_time": 1584,
+      "end_time": 1590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que no se quede ahí estancado en los archivos de ellos. ¿Qué le diría a la sociedad civil?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "b841dcba-4b8b-4832-ab37-17b8618fb350"
+    },
+    {
+      "start_time": 1591,
+      "end_time": 1602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pues que nos apoyara, que se uniera a nosotros, a las asociaciones, para poder mover todos los"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "e7ea626d-0ef0-4d5c-bab8-65e91deb637b"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "casos, ¿verdad? Que no se queden impunes ahí. Muy bien. Ariana, ¿algo más? En este caso de exhortar,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "d9f923c8-276b-4252-a1fc-81202fc54702"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pues sabemos que pudo haber sido en trayecto, que pudo haber un testigo en este evento,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "4c37e810-ca4d-40f9-aa2b-e831e8a49453"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 1622,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que recibimos inclusive a través de la página de Facebook, a través del Twitter. Podemos hacer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "72722270-a871-48db-a3bc-77c13c30a4cf"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "contactos. Si hay alguna información que alguien tenga, nos las puede hacer llegar de forma anónima."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "f0151d73-f81f-4dc1-8ca5-67235ce3cb77"
+    },
+    {
+      "start_time": 1628,
+      "end_time": 1632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Respetamos mucho la situación de su identidad, porque sabemos el riesgo que existe a veces y el"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "defd3cba-fbe6-40f9-bcd8-9d3f7b4d688a"
+    },
+    {
+      "start_time": 1632,
+      "end_time": 1637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "temor de dar algún testimonio, pero que les agradecemos de antemano. En cualquiera de los"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "60d3997a-81a2-4cdf-944d-e5f4c28fe6f2"
+    },
+    {
+      "start_time": 1637,
+      "end_time": 1643,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "casos, nosotros acompañemos o tengamos la posibilidad, porque estamos en la Región Norte,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "51d1d986-69f6-4e71-83b9-f6b87fb1f55b"
+    },
+    {
+      "start_time": 1643,
+      "end_time": 1649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "concretamente Piranegras y Volpás, Texas, que nos hagan llegar estos mensajes, que nosotros"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "854a5885-9efc-4379-b62d-5f3fed8b35f1"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "tendremos precaución en tomar esa información, para ayudar a estas familias a recuperar a sus"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "dc3eca73-a6d9-4ac1-af6c-757a96fc506a"
+    },
+    {
+      "start_time": 1655,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "seres queridos. Muchas gracias, Ariana. Gracias, Miriam. Y gracias a usted por habernos acompañado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "ba598ddd-2def-4207-b035-60ac2a5f79db"
+    },
+    {
+      "start_time": 1662,
+      "end_time": 1664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nos vemos la próxima. Esto fue Perspectivas en Rompimiento TV."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "383302f2-8717-4087-a94e-09ba950c822b"
+    },
+    {
+      "start_time": 1700,
+      "end_time": 1704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Subtítulos por la comunidad de Amara.org"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Búsqueda de personas desaparecidas"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "PGR (Procuraduría General de la República) y Marina de México"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Impunidad"
+        }
+      ],
+      "uuid": "d64e8c14-2932-4c10-b600-95c727523014"
+    }
+  ],
   "set": "Default",
   "event_id": "8377ccb7-7539-449c-85b1-c76564fa1bae",
   "source_id": "974e7c47-6e81-46bc-a79e-9a5b4d6647ea"
